@@ -25,7 +25,7 @@ Replace forms of E with an decorative alternate with a rounded left side.
 
 ## Stylistic Set 04: Sans-serif I
 
-Replace the serifed I with an serifless alternate. Note: this is a very narrow character that may result in less-than-ideal vertical setting.
+Replace the serifed I with a serifless alternate. Note: this is a very narrow character that may result in less-than-ideal vertical setting.
 
 <img src="images/design-alternates-i.png" alt="Serifless I" height="200" style="background:#871414" />
 
